@@ -25,3 +25,6 @@ if st.button('Ask Model'):
 
     else:
         st.warning('Kindly enter a news title.')
+
+#Run following command in cmd:
+#streamlit run frontend.py
