@@ -14,5 +14,5 @@ This project uses a deep learning model to classify news headlines as **Genuine*
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/news-detector.git
-   cd news-detector
+   git clone https://github.com/moabs-dev/News_classifier.git
+   cd News_classifier
