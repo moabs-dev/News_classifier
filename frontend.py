@@ -3,7 +3,7 @@ import requests
 
 st.title('Genuine vs Misleading News detector')
 news = st.text_area('Enter your news title here :',placeholder='E.g: Trump badmouthed Ukranian president')
-
+#local host ip and connected to backend port 8889
 API_URL='http://127.0.0.1:8889/result'
 
 if st.button('Ask Model'):
